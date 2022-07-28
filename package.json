@@ -1,20 +1,24 @@
 {
-  "name": "css-utf-8-plugin",
-  "version": "1.0.0",
-  "description": "add ` @charset \"UTF-8\" ` to each css file",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AndSpark/css-utf-8-plugin.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AndSpark/css-utf-8-plugin/issues"
-  },
-  "homepage": "https://github.com/AndSpark/css-utf-8-plugin#readme"
+	"name": "css-utf-8-plugin",
+	"version": "1.0.0",
+	"description": "add ` @charset \"UTF-8\" ` to each css file",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AndSpark/css-utf-8-plugin.git"
+	},
+	"keywords": [
+		"css",
+		"plugin",
+		"utf-8"
+	],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AndSpark/css-utf-8-plugin/issues"
+	},
+	"homepage": "https://github.com/AndSpark/css-utf-8-plugin#readme"
 }
